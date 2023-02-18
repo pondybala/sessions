@@ -1,7 +1,7 @@
 ---
 title: "Solid"
 date: 2023-02-17T18:45:50-08:00
-draft: true
+draft: false
 ---
 
 ## SOLID principles 
